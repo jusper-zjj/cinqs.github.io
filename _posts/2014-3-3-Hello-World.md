@@ -5,12 +5,14 @@ title: Welcome to the palace
 
 Hi, There
 
-(My LinkedIn)[http://www.linkedin.com/in/abnersoong]
+[My LinkedIn](ttp://www.linkedin.com/in/abnersoong)
 
-(My GitHub)[https://github.com/cinqs]
+[My GitHub](https://github.com/cinqs)
 
-(My dockers)[https://hub.docker.com/u/cinqsoong/]
+[My dockers](https://hub.docker.com/u/cinqsoong/)
 
-(Mail me)[mailto://ci.song@aliyun.com]
+[Mail me](mailto://ci.song@aliyun.com)
+
+[Mail me](mailto://ci.song@aliyun.com)
 
 *Ci Song / 宋辞*
