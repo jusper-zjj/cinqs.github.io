@@ -5,7 +5,7 @@ title: Welcome to the palace
 
 Hi, There
 
-[My LinkedIn](ttp://www.linkedin.com/in/abnersoong)
+[My LinkedIn](http://www.linkedin.com/in/abnersoong)
 
 [My GitHub](https://github.com/cinqs)
 
