@@ -9,7 +9,7 @@ It is a really nice tool to use to render your math formule.
 
 like:
 
-$sum_(i=1)^n i^3=((n(n+1))/2)^2$
+$$sum_(i=1)^n i^3=((n(n+1))/2)^2$$
 
 sum_(i=1)^n i^3=((n(n+1))/2)^2
 
