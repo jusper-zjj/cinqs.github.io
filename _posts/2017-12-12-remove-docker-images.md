@@ -1,18 +1,32 @@
 ---
 layout: post
-title: Welcome to the palace
+title: placeholder
 ---
 
-Hi, There
+## Docker to remove images
 
-[My LinkedIn](http://www.linkedin.com/in/abnersoong)
+By default,
 
-[My GitHub](https://github.com/cinqs)
+you can use `docker rmi` to remove image(s)
 
-[My dockers](https://hub.docker.com/u/cinqsoong/)
+like:
 
-[Mail me](mailto://ci.song@aliyun.com)
+```console
+docker rmi $(docker_name)
 
-[Mail me](mailto://ci.song@aliyun.com)
+docker rmi $(docker images -a)
+```
 
-*Ci Song / 宋辞*
+
+After docker engine 1.13, we have `-f –filter` enabled to used a “key=value” to filter a the results.
+
+```
+docker images filter
+```
+
+And also you have:
+
+```
+docker images prune -a
+```
+to remove all the dangling images. Which means you will remove all the images these are not used by any containers(dead or alive).
