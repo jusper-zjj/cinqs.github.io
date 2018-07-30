@@ -12,6 +12,5 @@ Hi, There
 
 [My dockers](https://hub.docker.com/u/cinqsoong/)
 
-[Mail me](mailto://ci.song@aliyun.com)
 
 *Ci Song / 宋辞*
